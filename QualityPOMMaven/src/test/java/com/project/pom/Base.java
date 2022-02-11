@@ -8,6 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.List;
 
 public class Base {
+
     private WebDriver driver;
 
     public Base(WebDriver driver){ //constructor
@@ -36,7 +37,7 @@ public class Base {
         return  driver.findElement(locator).getText();
     }
 
-    public void type(String inputText, By locator){ //metodo sendkey, escribir o tipear
+    public void type(String inputText, By locator){                        //metodo sendkey, escribir o tipear
         driver.findElement(locator).sendKeys(inputText);
     }
 
