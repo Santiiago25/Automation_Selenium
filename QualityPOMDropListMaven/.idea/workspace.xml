@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e0d87f-f905-455c-9203-cc58c71b4ee8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/projectDropList/pom/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/projectDropList/pom/DropdownList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/projectDropList/pom/DropdownListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../QualityWaitsMaven/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +110,8 @@
       <workItem from="1644803187569" duration="774000" />
       <workItem from="1644895012196" duration="324000" />
       <workItem from="1645062347938" duration="10475000" />
+      <workItem from="1645117868527" duration="226000" />
+      <workItem from="1645235714389" duration="72000" />
     </task>
     <servers />
   </component>
