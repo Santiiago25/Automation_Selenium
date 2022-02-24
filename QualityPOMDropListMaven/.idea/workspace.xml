@@ -5,7 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44e0d87f-f905-455c-9203-cc58c71b4ee8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/src/main/resources/chromedriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/src/main/resources/edgedriver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/src/main/resources/firefoxdriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/src/main/resources/iexplorerdriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCrossBrowserTesting/src/test/java/com/qualitycrossbrowsertesting/testng/TestNGCrossBrowserTesting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/test/java/com/qualityframework/testng/TestNGDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/test/java/com/qualityframework/testng/TestNGDataProviderCrunchyrroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/test/java/com/qualityframework/testng/TestNGDataProviderHotmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/test/java/com/qualityframework/testng/TestNGDataProviderTwitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGReports/src/main/resources/chromedriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGReports/src/test/java/com/testngreports/testng/TestNGReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGReports/src/test/java/com/testngreports/testng/TestNGReportsChifonDresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGReports/src/test/java/com/testngreports/testng/TestNGReportsDresses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGReports/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityPOMMaven/target/test-classes/com/project/pom/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityPOMMaven/target/test-classes/com/project/pom/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/main/resources/chromedriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/main/resources/chromedriver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/test/java/com/qualityframework/testng/TestNGExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/test/java/com/qualityframework/testng/TestNGExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/classes/chromedriver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/classes/chromedriver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/test-classes/com/qualityframework/testng/TestNGExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/test-classes/com/qualityframework/testng/TestNGExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +138,8 @@
       <workItem from="1645062347938" duration="10475000" />
       <workItem from="1645117868527" duration="226000" />
       <workItem from="1645235714389" duration="72000" />
+      <workItem from="1645314266081" duration="1083000" />
+      <workItem from="1645745699823" duration="13000" />
     </task>
     <servers />
   </component>

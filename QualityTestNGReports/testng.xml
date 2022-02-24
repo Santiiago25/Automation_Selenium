@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteSearch">
+
+    <test name="Search Blouses">
+        <classes>
+            <class name="com.testngreports.testng.TestNGReports"> </class>
+        </classes>
+    </test>
+
+    <test name="Search Dresses">
+        <classes>
+            <class name="com.testngreports.testng.TestNGReportsDresses"> </class>
+        </classes>
+    </test>
+
+    <test name="Search Chiffon Dreses">
+        <classes>
+            <class name="com.testngreports.testng.TestNGReportsChifonDresses"> </class>
+        </classes>
+    </test>
+</suite>

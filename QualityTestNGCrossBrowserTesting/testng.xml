@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <parameter name="URL" value="https://www.google.com.co/"></parameter>
+
+    <test name="Test on Chrome">
+        <parameter name="BrowserType" value="Chrome"></parameter>
+        <classes>
+            <class name="com.qualitycrossbrowsertesting.testng.TestNGCrossBrowserTesting"></class>
+        </classes>
+    </test>
+
+    <test name="Test on FF">
+        <parameter name="BrowserType" value="Firefox"></parameter>
+        <classes>
+            <class name="com.qualitycrossbrowsertesting.testng.TestNGCrossBrowserTesting"></class>
+        </classes>
+    </test>
+
+    <test name="Test on Edge Explorer">
+        <parameter name="BrowserType" value="Edge"></parameter>
+        <classes>
+            <class name="com.qualitycrossbrowsertesting.testng.TestNGCrossBrowserTesting"></class>
+        </classes>
+    </test>
+
+</suite>
