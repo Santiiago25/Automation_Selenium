@@ -26,7 +26,6 @@ public class TestNGDataProviderCrunchyrroll {
 
     By dropDownListLocator = By.xpath("//div[@id='content']/div/div[1]/div[1]/div[3]/ul/li[4]/div/div[1]");
     By desconectLocator = By.xpath("//a[@href = 'https://crunchyroll.com/es/logout']");
-    By recaptchaLocator = By.xpath("//div[@class = 'recaptcha-checkbox-checkmark']");
 
 
 
@@ -45,7 +44,6 @@ public class TestNGDataProviderCrunchyrroll {
 
             driver.findElement(emailLocator).sendKeys(email);
             driver.findElement(passwordLocator).sendKeys(password);
-            driver.findElement(recaptchaLocator).click();
             driver.findElement(btnLoginLocator).click();
 
             WebDriverWait wait = new WebDriverWait(driver, 10);
@@ -70,7 +68,7 @@ public class TestNGDataProviderCrunchyrroll {
         Object[][]data = new Object[2][2];
 
         data[0][0] = "kevintocora_3d@hotmail.com";
-        data[0][1] = "";
+        data[0][1] = "tokorazon1234";
 
         data[1][0] = "castrovilla-@hotmail.com";
         data[1][1] = "";

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc0cbeda-6f4c-4920-a6ce-e69f7ab59064" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/downloadfiles/testng/checkDownloadedFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/downloadfiles/testng/downloadFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/src/main/resources/chromedriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/src/test/java/com/checklinks/test/CheckLinksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../QualityTestNGCheckLinks/src/test/java/com/checklinks/test/CheckingLinkPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityPOMDropListMaven/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityPOMDropListMaven/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/test/java/com/qualityframework/testng/TestNGDataProviderCrunchyrroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/src/test/java/com/qualityframework/testng/TestNGDataProviderCrunchyrroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/test-classes/com/qualityframework/testng/TestNGDataProviderCrunchyrroll.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/test-classes/com/qualityframework/testng/TestNGDataProviderCrunchyrroll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/test-classes/com/qualityframework/testng/TestNGDataProviderHotmail.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/test-classes/com/qualityframework/testng/TestNGDataProviderHotmail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/test-classes/com/qualityframework/testng/TestNGDataProviderTwitter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityTestNGFrameworkMaven/target/test-classes/com/qualityframework/testng/TestNGDataProviderTwitter.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="261BSlPQyoEOhgXNyo0GqsMEPoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/chromedriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Santiago Tocora\Desktop\QA Testing\QualityTutorial\QualityTestNDownloadFiles\src\main\resources\chromedriver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.checkDownloadedFile.checkDownloadedFile">
+    <configuration name="checkDownloadedFile.checkDownloadedFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QualityTestNDownloadFiles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.downloadfiles.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.downloadfiles.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.downloadfiles.testng.checkDownloadedFile" />
+      <option name="METHOD_NAME" value="checkDownloadedFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="downloadFiles.downloadFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="QualityTestNDownloadFiles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.downloadfiles.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.downloadfiles.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.downloadfiles.testng.downloadFiles" />
+      <option name="METHOD_NAME" value="downloadFile" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.checkDownloadedFile.checkDownloadedFile" />
+        <item itemvalue="TestNG.downloadFiles.downloadFile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0cbeda-6f4c-4920-a6ce-e69f7ab59064" name="Changes" comment="" />
+      <created>1646581214796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646581214796</updated>
+      <workItem from="1646581216053" duration="6438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
